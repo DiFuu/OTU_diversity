@@ -1,0 +1,148 @@
+file	percent	reads	taxon_id	taxon_name
+./tables/SRR8490409.out	0.20677187862610247	2076	562	Escherichia coli
+./tables/SRR8490409.out	3.434843451974841	34486	817	Bacteroides fragilis
+./tables/SRR8490409.out	4.899278390047859	49189	818	Bacteroides thetaiotaomicron
+./tables/SRR8490409.out	5.278858173017067	53000	821	Phocaeicola vulgatus
+./tables/SRR8490409.out	0.27091498548314	2720	823	Parabacteroides distasonis
+./tables/SRR8490409.out	1.3208101553279117	13261	853	Faecalibacterium prausnitzii
+./tables/SRR8490409.out	0.13466068396073724	1352	1496	Clostridioides difficile
+./tables/SRR8490409.out	0.16105497482582257	1617	9606	Homo sapiens
+./tables/SRR8490409.out	0.2871499643926076	2883	28113	Bacteroides heparinolyticus
+./tables/SRR8490409.out	10.999447213908297	110435	28116	Bacteroides ovatus
+./tables/SRR8490409.out	2.8810613492960693	28926	28118	Odoribacter splanchnicus
+./tables/SRR8490409.out	0.2191224147290103	2200	28119	Bacteroides zoogleoformans
+./tables/SRR8490409.out	0.11573647541595908	1162	28131	Prevotella intermedia
+./tables/SRR8490409.out	0.4858541541127783	4878	39485	Lachnospira eligens
+./tables/SRR8490409.out	0.16175218250905124	1624	39491	[Eubacterium] rectale
+./tables/SRR8490409.out	0.2060746709428738	2069	47678	Bacteroides caccae
+./tables/SRR8490409.out	4.707944681550391	47268	214856	Alistipes finegoldii
+./tables/SRR8490409.out	0.4054760683462732	4071	246787	Bacteroides cellulosilyticus
+./tables/SRR8490409.out	0.42629269774552914	4280	290053	Bacteroides helcogenes
+./tables/SRR8490409.out	0.30039691037395233	3016	292800	Flavonifractor plautii
+./tables/SRR8490409.out	0.278185865608239	2793	301301	Roseburia hominis
+./tables/SRR8490409.out	3.2625335531197557	32756	328814	Alistipes shahii
+./tables/SRR8490409.out	50.027539703487534	502279	357276	Phocaeicola dorei
+./tables/SRR8490409.out	0.7160322906758433	7189	376805	Phocaeicola salanitronis
+./tables/SRR8490409.out	0.21563637631286697	2165	397865	Barnesiella viscericola
+./tables/SRR8490409.out	1.8244929059118231	18318	1160721	Ruminococcus bicirculans
+./tables/SRR8490409.out	0.2900383962231264	2912	1297617	Intestinimonas butyriciproducens
+./tables/SRR8490409.out	1.2661291527432632	12712	1796613	Bacteroides caecimuris
+./tables/SRR8490409.out	0.6400366532039183	6426	2025876	Parabacteroides sp. CT06
+./tables/SRR8490409.out	0.6901360052987784	6929	2109687	Oscillibacter sp. PEA192
+./tables/SRR8490409.out	0.2654369251149148	2665	2109688	Clostridiales bacterium CCNA10
+./tables/SRR8490409.out	0.824099481576287	8274	2109691	Lachnospiraceae bacterium GAM79
+./tables/SRR8490409.out	2.7962012141373798	28074	NA	Other
+./tables/SRR8490411.out	3.6897252596391104	40718	817	Bacteroides fragilis
+./tables/SRR8490411.out	1.8446813966912268	20357	818	Bacteroides thetaiotaomicron
+./tables/SRR8490411.out	2.4062322448169593	26554	821	Phocaeicola vulgatus
+./tables/SRR8490411.out	0.2912416372238347	3214	823	Parabacteroides distasonis
+./tables/SRR8490411.out	0.4191922258237273	4626	853	Faecalibacterium prausnitzii
+./tables/SRR8490411.out	0.24656767109086938	2721	1496	Clostridioides difficile
+./tables/SRR8490411.out	0.12767873890739984	1409	1681	Bifidobacterium bifidum
+./tables/SRR8490411.out	0.2970410973303454	3278	9606	Homo sapiens
+./tables/SRR8490411.out	2.667117333045777	29433	28116	Bacteroides ovatus
+./tables/SRR8490411.out	1.8714132831196744	20652	28118	Odoribacter splanchnicus
+./tables/SRR8490411.out	0.09967822058065282	1100	29442	Pseudomonas tolaasii
+./tables/SRR8490411.out	0.13828087691461474	1526	39483	Faecalitalea cylindroides
+./tables/SRR8490411.out	1.0405500062978512	11483	39485	Lachnospira eligens
+./tables/SRR8490411.out	0.20388726936951712	2250	39488	Anaerobutyricum hallii
+./tables/SRR8490411.out	0.17044975719291633	1881	39491	[Eubacterium] rectale
+./tables/SRR8490411.out	0.12930983706235596	1427	74426	Collinsella aerofaciens
+./tables/SRR8490411.out	0.1333875824497463	1472	84112	Eggerthella lenta
+./tables/SRR8490411.out	0.21612050553168816	2385	208479	Enterocloster bolteae
+./tables/SRR8490411.out	1.4353663763614006	15840	214856	Alistipes finegoldii
+./tables/SRR8490411.out	1.592495498622175	17574	239935	Akkermansia muciniphila
+./tables/SRR8490411.out	57.53898098048935	634972	246787	Bacteroides cellulosilyticus
+./tables/SRR8490411.out	0.1691811252946171	1867	290053	Bacteroides helcogenes
+./tables/SRR8490411.out	1.493089127734015	16477	292800	Flavonifractor plautii
+./tables/SRR8490411.out	0.15857898728740222	1750	301301	Roseburia hominis
+./tables/SRR8490411.out	0.45081740671704346	4975	328814	Alistipes shahii
+./tables/SRR8490411.out	13.021600270399828	143700	357276	Phocaeicola dorei
+./tables/SRR8490411.out	0.27130599310770415	2994	376805	Phocaeicola salanitronis
+./tables/SRR8490411.out	0.5823020413193409	6426	649756	Anaerostipes hadrus
+./tables/SRR8490411.out	0.1029404168905651	1136	1297617	Intestinimonas butyriciproducens
+./tables/SRR8490411.out	0.7032751544785877	7761	1796613	Bacteroides caecimuris
+./tables/SRR8490411.out	0.34642712479985066	3823	2025876	Parabacteroides sp. CT06
+./tables/SRR8490411.out	0.0959629414499194	1059	2086584	Massilistercora timonensis
+./tables/SRR8490411.out	2.248740656299528	24816	2109687	Oscillibacter sp. PEA192
+./tables/SRR8490411.out	0.8340348565675714	9204	2109688	Clostridiales bacterium CCNA10
+./tables/SRR8490411.out	0.22309798097233385	2462	2109691	Lachnospiraceae bacterium GAM79
+./tables/SRR8490411.out	0.10493398130217814	1158	2109692	Erysipelotrichaceae bacterium GAM147
+./tables/SRR8490411.out	2.6343141368183254	29071	NA	Other
+./tables/SRR8490412.out	0.3303323172158488	4094	729	Haemophilus parainfluenzae
+./tables/SRR8490412.out	4.265918322228121	52870	817	Bacteroides fragilis
+./tables/SRR8490412.out	2.9199795377929543	36189	818	Bacteroides thetaiotaomicron
+./tables/SRR8490412.out	35.762709402771435	443228	821	Phocaeicola vulgatus
+./tables/SRR8490412.out	1.107993009283839	13732	823	Parabacteroides distasonis
+./tables/SRR8490412.out	2.3384687878724306	28982	853	Faecalibacterium prausnitzii
+./tables/SRR8490412.out	0.09287066368232584	1151	1496	Clostridioides difficile
+./tables/SRR8490412.out	0.5276925634078289	6540	1680	Bifidobacterium adolescentis
+./tables/SRR8490412.out	0.16226142890109232	2011	1681	Bifidobacterium bifidum
+./tables/SRR8490412.out	0.08609296103305099	1067	1685	Bifidobacterium breve
+./tables/SRR8490412.out	0.30515799308997077	3782	9606	Homo sapiens
+./tables/SRR8490412.out	0.18719369221806773	2320	28113	Bacteroides heparinolyticus
+./tables/SRR8490412.out	24.082629877727015	298470	28116	Bacteroides ovatus
+./tables/SRR8490412.out	0.44660219242543314	5535	28118	Odoribacter splanchnicus
+./tables/SRR8490412.out	0.16443997618121642	2038	28119	Bacteroides zoogleoformans
+./tables/SRR8490412.out	0.2783699302380749	3450	29442	Pseudomonas tolaasii
+./tables/SRR8490412.out	0.08496334392483851	1053	39488	Anaerobutyricum hallii
+./tables/SRR8490412.out	0.31492111238237863	3903	39491	[Eubacterium] rectale
+./tables/SRR8490412.out	11.834514321124324	146672	47678	Bacteroides caccae
+./tables/SRR8490412.out	0.09456508934464457	1172	74426	Collinsella aerofaciens
+./tables/SRR8490412.out	0.18646750979135973	2311	208479	Enterocloster bolteae
+./tables/SRR8490412.out	0.08262342277211265	1024	214856	Alistipes finegoldii
+./tables/SRR8490412.out	0.12893772420882424	1598	216816	Bifidobacterium longum
+./tables/SRR8490412.out	0.36567319531563924	4532	246787	Bacteroides cellulosilyticus
+./tables/SRR8490412.out	0.3943170577024556	4887	290053	Bacteroides helcogenes
+./tables/SRR8490412.out	0.26368490783131265	3268	292800	Flavonifractor plautii
+./tables/SRR8490412.out	0.2058323745035736	2551	301301	Roseburia hominis
+./tables/SRR8490412.out	3.089180043215923	38286	357276	Phocaeicola dorei
+./tables/SRR8490412.out	1.1379278626514695	14103	376805	Phocaeicola salanitronis
+./tables/SRR8490412.out	0.08480197005223672	1051	397865	Barnesiella viscericola
+./tables/SRR8490412.out	0.1533051789716934	1900	649756	Anaerostipes hadrus
+./tables/SRR8490412.out	0.18937223949819182	2347	1160721	Ruminococcus bicirculans
+./tables/SRR8490412.out	2.805646149054591	34772	1796613	Bacteroides caecimuris
+./tables/SRR8490412.out	1.269608942694524	15735	2025876	Parabacteroides sp. CT06
+./tables/SRR8490412.out	1.3897517908465513	17224	2109687	Oscillibacter sp. PEA192
+./tables/SRR8490412.out	0.17872156390647417	2215	2109688	Clostridiales bacterium CCNA10
+./tables/SRR8490412.out	0.7857293856980792	9738	2109691	Lachnospiraceae bacterium GAM79
+./tables/SRR8490412.out	0.08520540473374118	1056	2494234	Sutterella megalosphaeroides
+./tables/SRR8490412.out	1.8155367537063545	22501	NA	Other
+./tables/SRR8490413.out	0.11942515162592368	1248	729	Haemophilus parainfluenzae
+./tables/SRR8490413.out	2.9297439440539095	30616	817	Bacteroides fragilis
+./tables/SRR8490413.out	9.088655950300764	94977	818	Bacteroides thetaiotaomicron
+./tables/SRR8490413.out	2.284293104537199	23871	821	Phocaeicola vulgatus
+./tables/SRR8490413.out	20.362945284524685	212794	853	Faecalibacterium prausnitzii
+./tables/SRR8490413.out	0.12066916362202705	1261	1358	Lactococcus lactis
+./tables/SRR8490413.out	0.28841939663504323	3014	1496	Clostridioides difficile
+./tables/SRR8490413.out	0.11416202395010172	1193	1680	Bifidobacterium adolescentis
+./tables/SRR8490413.out	0.39789245229214	4158	9606	Homo sapiens
+./tables/SRR8490413.out	0.20612321843128173	2154	28116	Bacteroides ovatus
+./tables/SRR8490413.out	0.47358579759350666	4949	28118	Odoribacter splanchnicus
+./tables/SRR8490413.out	0.49597801352336734	5183	29442	Pseudomonas tolaasii
+./tables/SRR8490413.out	0.18153005820062276	1897	39483	Faecalitalea cylindroides
+./tables/SRR8490413.out	4.598538190211348	48055	39491	[Eubacterium] rectale
+./tables/SRR8490413.out	0.0969372424655935	1013	84112	Eggerthella lenta
+./tables/SRR8490413.out	0.10679364520395097	1116	208479	Enterocloster bolteae
+./tables/SRR8490413.out	1.032817036457207	10793	214856	Alistipes finegoldii
+./tables/SRR8490413.out	0.11081276088366956	1158	216816	Bifidobacterium longum
+./tables/SRR8490413.out	2.8539549055220736	29824	239935	Akkermansia muciniphila
+./tables/SRR8490413.out	0.17617123729433132	1841	246787	Bacteroides cellulosilyticus
+./tables/SRR8490413.out	0.11885099224310675	1242	290053	Bacteroides helcogenes
+./tables/SRR8490413.out	0.8874590193740515	9274	292800	Flavonifractor plautii
+./tables/SRR8490413.out	0.31473503501415306	3289	301301	Roseburia hominis
+./tables/SRR8490413.out	0.921717195882129	9632	328814	Alistipes shahii
+./tables/SRR8490413.out	23.555367146217343	246155	357276	Phocaeicola dorei
+./tables/SRR8490413.out	0.6807616415599528	7114	376805	Phocaeicola salanitronis
+./tables/SRR8490413.out	0.24258233924015749	2535	397865	Barnesiella viscericola
+./tables/SRR8490413.out	0.11291801195399834	1180	649756	Anaerostipes hadrus
+./tables/SRR8490413.out	21.255763124805025	222124	1160721	Ruminococcus bicirculans
+./tables/SRR8490413.out	0.1772238628294957	1852	1297617	Intestinimonas butyriciproducens
+./tables/SRR8490413.out	0.3991364642882433	4171	1796613	Bacteroides caecimuris
+./tables/SRR8490413.out	0.11798975316888133	1233	1871021	Lachnoclostridium phocaeense
+./tables/SRR8490413.out	0.15148238383320287	1583	2025876	Parabacteroides sp. CT06
+./tables/SRR8490413.out	0.5339682260197549	5580	2109687	Oscillibacter sp. PEA192
+./tables/SRR8490413.out	0.3443042432292255	3598	2109688	Clostridiales bacterium CCNA10
+./tables/SRR8490413.out	0.14306137955188775	1495	2109690	Lachnospiraceae bacterium Choco86
+./tables/SRR8490413.out	1.1776008941575455	12306	2109691	Lachnospiraceae bacterium GAM79
+./tables/SRR8490413.out	2.8256297093031044	29528	NA	Other
